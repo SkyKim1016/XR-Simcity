@@ -1,0 +1,6 @@
+SM_Door_1.FBX filter=lfs diff=lfs merge=lfs -text
+SM_Door_2.FBX filter=lfs diff=lfs merge=lfs -text
+SM_Door_5.FBX filter=lfs diff=lfs merge=lfs -text
+SM_Door_7.FBX filter=lfs diff=lfs merge=lfs -text
+SM_Door_8.FBX filter=lfs diff=lfs merge=lfs -text
+SM_Door_9.FBX filter=lfs diff=lfs merge=lfs -text
