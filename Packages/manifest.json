@@ -1,12 +1,18 @@
 {
   "dependencies": {
+    "com.unity.ai.assistant": "2.18.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
+    "com.unity.ai.navigation": "2.0.14",
+    "com.unity.entities": "6.5.0",
     "com.unity.feature.development": "1.0.2",
     "com.unity.inputsystem": "1.20.0",
     "com.unity.learn.iet-framework": "5.0.4",
     "com.unity.mobile.android-logcat": "1.4.7",
     "com.unity.multiplayer.center": "1.0.1",
+    "com.unity.postprocessing": "3.5.4",
     "com.unity.render-pipelines.universal": "17.5.0",
     "com.unity.timeline": "1.8.12",
+    "com.unity.xr-content.xr-sim-environments": "file:../ContentPackages/com.unity.xr-content.xr-sim-environments-2.1.1.tgz",
     "com.unity.xr.arcore": "6.5.0",
     "com.unity.xr.arfoundation": "6.5.0",
     "com.unity.xr.arkit": "6.5.0",
@@ -45,8 +51,6 @@
     "com.unity.modules.vehicles": "1.0.0",
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "com.unity.ai.assistant": "2.18.0-pre.2",
-    "com.unity.ai.inference": "2.6.1"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
